@@ -39,5 +39,4 @@ Ce projet est sous licence Apache. Voir le fichier `LICENSE` pour plus de détai
 ---
 
 Merci d'avoir téléchargé et joué à notre petit jeu d'arcade ! Nous espérons que vous apprécierez cette expérience rétro. 
-"# Retro-game_Asteroides_war" 
-"# Retro-game_Asteroides_war" 
+"# Retro-game_Asteroides_war"
