@@ -1,4 +1,4 @@
-# Retro-asteroid-war
+# Retro-asteroid-war - END USER LICENSE AGREEMENT
 
 # Copyright © Gaëtan Sencie 2023-2026
 # All rights reserved.
@@ -46,7 +46,7 @@ Made in Boncelles (Belgium), 2026.
 
 ***
 
-# Retro-asteroid-war (Version Française)
+# Retro-asteroid-war - CONTRAT DE LICENCE UTILISATEUR FINAL
 
 # Copyright © Gaëtan Sencie 2023-2026
 # Tous droits réservés.
