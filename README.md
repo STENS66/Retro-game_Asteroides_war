@@ -1,6 +1,6 @@
 # Retro asteroid war - English Version 1.3
 
-# Copyright © Gaëtan Sencie 2023
+# Copyright © Gaëtan Sencie 2023-2026
 # All rights reserved.
 
 
