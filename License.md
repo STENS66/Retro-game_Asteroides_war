@@ -1,7 +1,7 @@
 # Retro-asteroid-war
 
-**Copyright © Gaëtan Sencie 2023-2026**
-All rights reserved.
+# Copyright © Gaëtan Sencie 2023-2026
+# All rights reserved.
 
 The present software and all associated files (hereinafter the "Software") are the exclusive property of Gaëtan Sencie (hereinafter the "Author"). The Software is protected by Belgian and international copyright laws and international conventions.
 
@@ -48,8 +48,8 @@ Made in Boncelles (Belgium), 2026.
 
 # Retro-asteroid-war (Version Française)
 
-**Copyright © Gaëtan Sencie 2023-2026**
-Tous droits réservés.
+# Copyright © Gaëtan Sencie 2023-2026
+# Tous droits réservés.
 
 Le présent logiciel et tous les fichiers associés (ci-après le "Logiciel") sont la propriété exclusive de Gaëtan Sencie (ci-après l'"Auteur"). Le Logiciel est protégé par les lois belges et internationales sur le droit d'auteur et les conventions internationales.
 
