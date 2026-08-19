@@ -46,7 +46,7 @@ Made in Boncelles (Belgium), 2026.
 
 ***
 
-# Retro-asteroid-war (Version Française)
+# Retro-asteroid-war
 
 # Copyright © Gaëtan Sencie 2023-2026
 # Tous droits réservés.
